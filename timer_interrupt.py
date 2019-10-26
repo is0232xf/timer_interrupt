@@ -61,4 +61,3 @@ var = variance(exetime)
 print("mean: ", mean)
 print("variance: ", var)
 print("Done.")
-    
